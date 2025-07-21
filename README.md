@@ -1,7 +1,7 @@
 # Trabalho Prático 1 - O Assunto X
 
 Você deverá fazer **fazer um site sobre um determinado assunto - o Assunto X -**, para motivar os amigos a
-gostarem da mesma coisa que vocês.
+gostarem da mesma coisa que vocês. O aluno pode optar por não fazer o trabalho prático e, assim, sua nota do trabalho prático será proporcional a nota de tirou na prova. 
 
 ## Funcionalidades do Site
 
